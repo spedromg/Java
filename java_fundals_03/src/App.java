@@ -3,6 +3,7 @@ public class App {
         App.arithmeticOperators(10, 5);
         App.comparationOperators(10, 5);
         App.booleanOperators(true, false);
+        App.classMath(10.85, 50.258);
     }
 
     private static void arithmeticOperators(int numb1, int numb2) {
@@ -63,5 +64,21 @@ public class App {
 
         // not operator
         System.out.println("not " + oper1 + " = " + !oper1 + ",  not " + oper2 + " = " + !oper2);
+    }
+
+    private static void classMath(double number1, double number2) {
+        // max number
+        System.out.println(Math.max(number1, number2));
+        // min number
+        System.out.println(Math.min(number1, number2));
+        // round number
+        System.out.println(Math.round(number1));
+        // round max
+        System.out.println(Math.ceil(number2));
+        // round min
+        System.out.println(Math.floor(number2));
+        // potetion
+        System.out.println(Math.pow(10, 2));
+        // randomize
     }
 }
