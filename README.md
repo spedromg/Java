@@ -2,7 +2,7 @@
 
 ![Java Top Fundals](/imgs/java_top_fundals.jpg)
 
-🇺🇸
+:united_states:
 
 ## Welcome to the Java Programming Language (ENG-USA)
 
@@ -14,7 +14,7 @@
   Hope you like it, Come on Java!!! :heart_eyes::heart_eyes::heart_eyes:
 </p>
 
-🇧🇷
+:brazil:
 
 ## Bem-Vindo a Linguagem de Programação Java (PT-BR)
 

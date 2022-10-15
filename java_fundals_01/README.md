@@ -1,3 +1,11 @@
+:united_states:
+
+# Welcome to the Java Programming Language
+
+<p>
+Welcome to the my tutorial about the Java programming language. My objective is learn the fundamentals from Java, 
+</p>
+
 # Bem-Vindo a Linguagem de Programação Java
 
 <p>
