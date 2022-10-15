@@ -2,7 +2,7 @@
 
 ![Java Top Fundals](/imgs/java_top_fundals.jpg)
 
-:united_states:
+:us:
 
 ## Welcome to the Java Programming Language (ENG-USA)
 

@@ -1,4 +1,4 @@
-:united_states:
+:us:
 
 # Welcome to the Java Programming Language
 
