@@ -25,5 +25,9 @@
 <p>
   Espero que gostem, Vamos lá Java!!! :heart_eyes::heart_eyes::heart_eyes:
 </p>
+<p>
+Todo o material é baseado no livro <cote>Java como programar 10ª Edição, Paul Deitel, Harvey Deitel.</cote>
+</p>
+<p>Utilizei como suporte e referência a documentação oficial do Java 8. <a href="https://docs.oracle.com/javase/8/docs/">https://docs.oracle.com/javase/8/docs/</a>
 
 ## Java Fundamentals
