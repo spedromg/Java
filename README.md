@@ -35,6 +35,15 @@ Todo o material é baseado no livro:  <br/>
 
 ## Java Fundamentals
 
+:us:
+
+<p>
+Before starting, you need to ensure that the computer has installed JDK8, the IDE for typing the source code and the configuration of the virtual environment, in system settings. If you were unable to install and configure Java, follow the tutorials below:
+</p>
+> <a href="https://lucasmgaldino.medium.com/instalando-o-java-jre-e-jdk-no-windows-10-4a657d1222d">Java setup and installation on the computer.</a>
+
+:brazil:
+
 <p>
 Antes de começar, você precisa garantir que o computador tenha instalado o JDK8, a IDE para digitação do código fonte e a configuração do ambiente virtual, em configurações do sistema. Caso você não tenha conseguido instalar e configurar o Java, siga os tutoriais abaixo:
 </p>
