@@ -34,3 +34,20 @@ Todo o material é baseado no livro:  <br/>
 <p>Utilizei como suporte e referência a documentação oficial do Java 8. <a href="https://docs.oracle.com/javase/8/docs/">https://docs.oracle.com/javase/8/docs/</a>
 
 ## Java Fundamentals
+
+<p>
+Antes de começar, você precisa garantir que o computador tenha instalado o JDK8, a IDE para digitação do código fonte e a configuração do ambiente virtual, em configurações do sistema. Caso você não tenha conseguido instalar e configurar o Java, siga os tutoriais abaixo:
+</p>
+> <a href="https://lucasmgaldino.medium.com/instalando-o-java-jre-e-jdk-no-windows-10-4a657d1222d">Instalando e configurando o Java no computador.</a>
+<p>Todos os códigos utilizados no nosso material é suportado pela versão indicada no tutorial.</p>
+
+### Instalando uma IDE para programar em Java.
+
+<p>Para programar em Java, além do kit de desenvolvimento devidamente configurado no computador, você precisa de um editor de texto para digitar os códigos. Alguns editores são bem simples como o notepad, mas eu indico editores com mais recursos e focados no desenvolvimento Java, que permitirão produtividade e velocidade na programação de códigos Java.</p>
+
+<ol>
+  <li>[Microsoft Visual Studio Code](https://code.visualstudio.com/docs/languages/java/)</li>
+  <li>[Eclipse](https://www.eclipse.org/downloads/)</li>
+  <li>[IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/)</li>
+  <li>[Apache NetBeans 15](https://netbeans.apache.org/)</li>
+</ol>
