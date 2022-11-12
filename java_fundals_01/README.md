@@ -1,19 +1,16 @@
-:us:
+# 1. Hello World Java
 
-# Welcome to the Java Programming Language
-
-<p>
-Welcome to the my tutorial about the Java programming language. My objective is learn the fundamentals from Java, 
-</p>
-
-# Bem-Vindo a Linguagem de Programação Java
+# Nosso primeiro programa em Java: imprimindo uma linha de texto.
 
 <p>
-Bem-Vindo ao meu tutorial sobre a linguagem de programação Java. Meu objetivo é estudarmos os fundamentos do Java, transcorrendo pelas bases e principais comandos da linguagem, até a o desenvolvimento de uma interface gráfica e conexão com o banco de dados.
-Estou utilizando essa oportunidade para aprofundar meus conhecimentos em Java.
+Vamos criar o nosso primeiro programa utilizando a linguagem de programação Java, mas antes ...
+Vamos verificar a instalação do Java realizada no computador, lembre-se, eu estou utilizando o Sistema Operacional Windows neste tutorial, em outros sistemas a forma de operacionalização é um pouco diferente, no futuro atualizarei o tutorial com manipulações no Sistema Operacional Linux.
 </p>
 <p>
-Vamos lá, criar soluções com Java.
+<ol>
+  <li>Clique no botão iniciar do Windows, na caixa de pesquisa digite: "cmd" e pressione "ENTER". O prompt de comando será inicializado.</li>
+  <li>No prompt de comando digite: java -version</li>
+  ![Prompt de Comando](../imgs/f_01_prompt_de_comando.png)
+  > Observer que o terminal retorna uma resposta, informando o versão do Java instalado no Sistema Operacional do computador. Se o terminal retornar alguma mensagem de não reconhecimento do Java, possívelmente o Java não foi instalado no seu computador. Retorne para seção de introdução, para o tutorial indicado  
+</ol>
 </p>
-
-## Primeiros passos, montando o ambiente de desenvolvimento Java.
