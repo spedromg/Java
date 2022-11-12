@@ -57,6 +57,6 @@ public class App {
 
 > Observe que o script do arquivo App.java é compilado para App.class e após execução do comando <em>java App</em> o script é executado, retonando "Hello World Java!!!". Nas próximas seções aprenderemos sobre cada comando digitado no código-fonte App.java.
 
-<p>
-  **criamos um programa que imprime uma mensagem na tela.**
-</p>
+<br />
+
+**criamos um programa que imprime uma mensagem na tela.**
