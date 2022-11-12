@@ -27,3 +27,18 @@ Vamos verificar a instalação do Java realizada no computador, lembre-se, eu es
 </p>
 
 ![Prompt de Comando](../imgs/f_01_create_folder.png)
+
+<p>
+  <ol start="6">
+    <li>Carregue o programa bloco de notas</li>
+    <li>Digite o script abaixo:</li>
+  </ol>
+</p>
+
+```java
+public class App {
+	public static void main(String[] args) {
+		System.out.println("Hello World Java!!!");
+	}
+}
+```
