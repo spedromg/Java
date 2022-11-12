@@ -10,7 +10,8 @@ Vamos verificar a instalação do Java realizada no computador, lembre-se, eu es
 <ol>
   <li>Clique no botão iniciar do Windows, na caixa de pesquisa digite: "cmd" e pressione "ENTER". O prompt de comando será inicializado.</li>
   <li>No prompt de comando digite: java -version</li>
-  ![Prompt de Comando](../imgs/f_01_prompt_de_comando.png)
-  > Observer que o terminal retorna uma resposta, informando o versão do Java instalado no Sistema Operacional do computador. Se o terminal retornar alguma mensagem de não reconhecimento do Java, possívelmente o Java não foi instalado no seu computador. Retorne para seção de introdução, para o tutorial indicado  
 </ol>
+ ![Prompt de Comando](../imgs/f_01_prompt_de_comando.png)
+ 
+  > Observer que o terminal retorna uma resposta, informando o versão do Java instalado no Sistema Operacional do computador. Se o terminal retornar alguma mensagem de não reconhecimento do Java, possívelmente o Java não foi instalado no seu computador. Retorne para seção de introdução, para o tutorial indicado 
 </p>
