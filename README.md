@@ -60,3 +60,18 @@ Antes de começar, você precisa garantir que o computador tenha instalado o JDK
   <li>[IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/)</li>
   <li>[Apache NetBeans 15](https://netbeans.apache.org/)</li>
 </ol>
+
+## 1. Hello World Java!
+
+<p>
+O processo básico de desenvolvimento em um ambiente Java está dividido em: editar, compilar, carregar, verificar e executar.
+<ul>
+  <li><em>Editar: </em> Um arquivo com extensão "*.java" é criado com o código-fonte, escrito em algum editor de texto ou  IDE, e gravado em disco.</li>
+  <li><em>Compilar: </em> O compilador Java (javac) cria um novo arquivo "*.class" a partir do arquivo "*.java", e armazena em disco.</li>
+  <li><em>Carregar: </em> O(s) arquivo(s) "*.class" são carregados em memória pela JVM. Os arquivo(s) "*.class", também são conhecidos como bytecodes.</li>
+  <li><em>Verificar: </em> O verificador de bytecode assegura que o(s) arquivo(s) "*.class" carregados em memória, são seguros ou válidos.</li>
+  <li><em>Execução: </em> Por fim, a JVM lê os bytecodes (*.class) traduzindo-os em linguagem de máquina e executando o programa.</li>
+</ul>
+<p>Acesse os Scripts "Hello World Java" e aprenda os primeiros passos na linguagem.</p>
+</p>
+[Hello World Java](/java_fundals_01/README.md)
