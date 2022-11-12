@@ -42,3 +42,15 @@ public class App {
 	}
 }
 ```
+
+<p>
+  <ol start="8">
+    <li>Salve na pasta "scripts_java" criada na unidade (C:\) com o nome "App.java"</li>
+    <li>Retorne para o terminal e digite o comando: <em>javac App.java</em></li>
+    <li>Em seguida, digite o comando: <em>java App</em></li>
+  </ol>
+</p>
+
+![Prompt de Comando](../imgs/f_01_executa_java.png)
+
+> Observe que o script do arquivo App.java é compilado para App.class e após execução do comando <em>java App</em> o script é executado, retonando "Hello World Java!!!". Nas próximas seções aprenderemos sobre cada comando digitado no código-fonte App.java.
