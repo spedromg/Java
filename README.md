@@ -74,4 +74,4 @@ O processo básico de desenvolvimento em um ambiente Java está dividido em: edi
 </ul>
 <p>Acesse os Scripts "Hello World Java" e aprenda os primeiros passos na linguagem.</p>
 </p>
-<a href="/java_fundals_01/README.md">Hello World Java</a>
+<a href="/java_fundals_01/">Hello World Java</a>
