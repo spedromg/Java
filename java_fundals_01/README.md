@@ -23,7 +23,7 @@ Vamos verificar a instalação do Java realizada no computador, lembre-se, eu es
 <p>
   <ol start="3">
     <li>Após confirmação da instalação do  Java, ainda no prompt de comando para acessar a raiz do disco (C:\), digite: <em>cd \</em></li>
-    <li>Em seguida, para criar um diretório, digite: <em>mkdir scripts_java</em> e pressione ENTER</li>
+    <li>Em seguida, para criar um diretório, digite: <em>mkdir scripts_java</em> e pressione "ENTER";</li>
     <li>Digite <em>cd scripts_ java</em> para acessar o diretório criado.</li>
   </ol>
 </p>
@@ -47,9 +47,9 @@ public class App {
 
 <p>
   <ol start="8">
-    <li>Salve na pasta "scripts_java" criada na unidade (C:\) com o nome "App.java"</li>
-    <li>Retorne para o terminal e digite o comando: <em>javac App.java</em></li>
-    <li>Em seguida, digite o comando: <em>java App</em></li>
+    <li>Salve na pasta "scripts_java" criada na unidade (C:\) com o nome "App.java";</li>
+    <li>Retorne para o terminal e digite o comando: <em>javac App.java</em>;</li>
+    <li>Em seguida, digite o comando: <em>java App</em>.</li>
   </ol>
 </p>
 

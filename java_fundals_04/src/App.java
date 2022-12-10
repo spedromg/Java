@@ -6,6 +6,8 @@ public class App {
         App.condictionsMethod(number1, number2);
         App.loops(number2, number1);
         App.tabuada(2);
+        double numb = App.poliSecGrau(2, 2, 5, 5);
+        System.out.println("Polinômio de Segundo Grau => " + numb);
     }
 
     public static void condictionsMethod(int number1, int number2) {
@@ -49,5 +51,9 @@ public class App {
         for (int x = 0; x <= 10; x++) {
             System.out.println(num + " x " + x + " = " + (num * x));
         }
+    }
+
+    public static double poliSecGrau(int a, int b, int x, int c) {
+        return a * Math.pow(x, 2) + b * x + c;
     }
 }

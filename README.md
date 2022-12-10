@@ -1,7 +1,5 @@
 # Java
 
-![Java Top Fundals](/imgs/java_top_fundals.jpg)
-
 :us:
 
 ## Welcome to the Java Programming Language (ENG-USA)

@@ -1,14 +1,40 @@
+import java.util.Scanner;
+
+/**
+ * @author Simão Pedro M. Gabriel
+ * @since 2022/11/27
+ * @version 0.0.1
+ */
+
 public class App {
     public static void main(String[] args) throws Exception {
+        App.sumNumbers();
+        System.out.print("Inicio do ");
+        System.out.println("algoritmo ...");
         App.arithmeticOperators(10, 5);
         App.comparationOperators(10, 5);
         App.booleanOperators(true, false);
         System.out.println();
         System.out.println("Classe Math");
         App.classMath(10.85, 50.258, -15.01);
+        System.out.println("fim do método main\nIniciando um novo método ...");
+    } // fim do método main
+
+    private static void sumNumbers() {
+        Scanner input = new Scanner(System.in);
+        int number1, number2, sum;
+        System.out.println("Enter first integer: ");
+        number1 = input.nextInt();
+        System.out.println("Enter second integer: ");
+        number2 = input.nextInt();
+
+        sum = number1 + number2;
+
+        System.out.printf("The sum of two numbers is: %d%n", sum);
     }
 
     private static void arithmeticOperators(int numb1, int numb2) {
+        System.out.printf("%s%n%s%n", "start method:", "arithmeticOperator");
         // sum
         int numTotal = numb1 + numb2;
         System.out.println(numTotal);
@@ -21,7 +47,7 @@ public class App {
         // multiplication
         numTotal = numb1 * numb2;
         System.out.println(numTotal);
-    }
+    } // fim do método arithmeticOperators
 
     private static void comparationOperators(int numb1, int numb2) {
         System.out.println("numb1 = " + numb1 + ", " + "numb2 = " + numb2);
@@ -49,7 +75,7 @@ public class App {
         // less than or equal to
         flag = ("numb1 <= numb2 => " + (numb1 <= numb2));
         System.out.println(flag);
-    }
+    } // fim do método comparationOperators
 
     private static void booleanOperators(boolean oper1, boolean oper2) {
         // and operator
@@ -66,7 +92,7 @@ public class App {
 
         // not operator
         System.out.println("not " + oper1 + " = " + !oper1 + ",  not " + oper2 + " = " + !oper2);
-    }
+    } // fim do método booleanOperators
 
     /**
      * Class Math
@@ -152,7 +178,7 @@ public class App {
         System.out.println(Math.acos(0.005));
         // addExact Retorna a soma de seus argumentos, lançando uma exceção se o
         // resultado estourar um int.
-        System.out.println(Math.addExact(100, 200));
+        System.out.println("addExact => " + Math.addExact(100, 200));
         // max number
         System.out.println(Math.max(number1, number2));
         // min number
@@ -166,5 +192,6 @@ public class App {
         // potetion
         System.out.println(Math.pow(10, 2));
         // randomize
-    }
-}
+        System.out.println(Math.random());
+    } // fim do método classMath
+} // fim da class App

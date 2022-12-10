@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/**
+ * @author Simão Pedro Mendes Gabrie
+ * @version 0.0.1
+ * @since 2022/11/27
+ */
+
 public class App {
     public static void main(String[] args) throws Exception {
         fundalJavaVariables();
